@@ -1,0 +1,64 @@
+{
+    "posts": [
+      {
+        "First-Name": "Oleg",
+        "Last-name": "Garbunoff",
+        "password": "password",
+        "email": "oleg.garbunof@gmail.com",
+        "Id": 1
+      },
+      {
+        "First-Name": "Loana",
+        "Last-name": "Jason",
+        "password": "aypass",
+        "email": "loana.jason@gmail.ir",
+        "id": 2
+      },
+      {
+        "First-Name": "Lorem",
+        "Last-name": "Basiks",
+        "password": "LoremBas345",
+        "email": "Lorem765@rds.kl",
+        "id": 3
+      },
+      {
+        "First-Name": "Boby",
+        "Last-name": "MacCalister",
+        "password": "jkjflkjh",
+        "email": "bob_945@yandex.ru",
+        "id": 4
+      },
+      {
+        "First-Name": "Aleksejs",
+        "Last-name": "Zibaro",
+        "password": "alex_76@gmail.com",
+        "email": "alex.zibaro@gmail.com",
+        "id": 5
+      },
+      {
+        "First-Name": "Jani",
+        "Last-name": "Dregeris",
+        "password": "password",
+        "email": "juandre@inbox.lv",
+        "id": 6
+      },
+      {
+        "First-Name": "Janis",
+        "Last-name": "Dregeris",
+        "password": "password",
+        "email": "juandre@inbox.lv",
+        "id": 7
+      },
+      {
+        "First-Name": "Bombaa",
+        "Last-name": "Zuluu",
+        "password": "Zulu888",
+        "email": "bomba.z@yandex.op",
+        "id": 8
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+  }
